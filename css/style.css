@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+body{
+    background-image: url(/images/background.jpg);
+    margin: 10vw;
+}
+fieldset{
+    border-radius: 10px;
+    text-align: center;
+}
+legend{
+    background-color: aquamarine;
+}
+.red-border{
+    border: 2px solid red;
+}
+.green-border{
+    border: 2px solid rgb(0, 255, 0);
+}
+#output{
+    margin-top: 20px;
+    padding: 10px;
+    border: 2px blue;
+    background-color: aquamarine;
+}
